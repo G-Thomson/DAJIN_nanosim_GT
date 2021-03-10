@@ -1,0 +1,7 @@
+numpy
+scipy
+HTSeq
+pybedtools
+pysam
+six
+scikit-learn
